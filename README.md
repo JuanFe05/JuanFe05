@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="800" src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif">
+<div align="center"><img alt="Coding" width="800" src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif"></div>
 <h1 align="center">Hi 👋, I'm Juan Felipe Herman</h1>
 <h3 align="center">Systems engineering student and passionate for the software development.</h3>
 
