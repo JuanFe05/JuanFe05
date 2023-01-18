@@ -23,10 +23,6 @@
 <h3 align="left">Stats:</h3>
 
 <div align="center">
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=juanfe05&show_icons=true&theme=radical&locale=es" alt="juanfe05" /></p>
-</div>
-
-<div align="center">
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juanfe05&show_icons=true&theme=radical&locale=es" alt="juanfe05" /></p>
 </div>
 
