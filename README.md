@@ -4,7 +4,6 @@
 
 <h3 align="left">About me:</h3>
 
-<h3 align="left">Systems engineering student and passionate for the software development.</h3>
 
 - 🌱 I’m currently learning **React, TypeScript and MongoDB**
 
@@ -23,7 +22,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juanfe05&show_icons=true&theme=radical&hide_border=true&locale=es&layout=compact" alt="juanfe05" />
-  
+</div>
+
+<div align="center">
   &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=juanfe05&show_icons=true&theme=radical&hide_border=true&locale=es" alt="juanfe05" />
 </div>
 
