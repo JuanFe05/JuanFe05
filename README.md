@@ -2,6 +2,8 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=3399FF&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Juan+Felipe+Herman" alt="Typing SVG" /></a>
 </h1>
 
+![Banner](https://user-images.githubusercontent.com/40324908/213236080-e0c4d9b6-2c50-47ff-864d-f19db8d38141.png)
+
 <h3 align="left">About me:</h3>
 
 
