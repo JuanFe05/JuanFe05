@@ -1,4 +1,6 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=32ADE4&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Juan+Felipe+Herman" alt="Typing SVG" /></a>
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?  font=Fira+Code&weight=600&size=24&pause=1000&color=32ADE4&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Juan+Felipe+Herman" alt="Typing SVG" /></a>
+</h1>
 
 <h3 align="center">Systems engineering student and passionate for the software development.</h3>
 
