@@ -6,6 +6,11 @@
 
 <h3 align="left">About me:</h3>
 
+- Analyzing system challenges and identify the best solution to meet project needs.
+
+- Taking a project from conception to completion.
+
+- Optimizing systems while maintaining quality.
 
 - 🌱 I’m currently learning **React, TypeScript and MongoDB**
 
