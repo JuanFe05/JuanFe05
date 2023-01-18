@@ -23,9 +23,9 @@
 <h3 align="left">Stats:</h3>
 
 <div align="center">
-  &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=juanfe05&show_icons=true&theme=radical&locale=es" alt="juanfe05" /></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juanfe05&show_icons=true&theme=radical&title_color=3399ff&text_color=3399ff&locale=es&layout=compact" alt="juanfe05" />
 </div>
 
 <div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanfe05&theme=radical" alt="juanfe05" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanfe05&theme=radical&title_color=3399ff&text_color=3399ff&locale=es&layout=compact" alt="juanfe05" />
 </div>
